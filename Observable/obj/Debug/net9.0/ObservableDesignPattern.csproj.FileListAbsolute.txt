@@ -1,0 +1,14 @@
+D:\Chapter2\Observable\bin\Debug\net9.0\ObservableDesignPattern.exe
+D:\Chapter2\Observable\bin\Debug\net9.0\ObservableDesignPattern.deps.json
+D:\Chapter2\Observable\bin\Debug\net9.0\ObservableDesignPattern.runtimeconfig.json
+D:\Chapter2\Observable\bin\Debug\net9.0\ObservableDesignPattern.dll
+D:\Chapter2\Observable\bin\Debug\net9.0\ObservableDesignPattern.pdb
+D:\Chapter2\Observable\obj\Debug\net9.0\ObservableDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Chapter2\Observable\obj\Debug\net9.0\ObservableDesignPattern.AssemblyInfoInputs.cache
+D:\Chapter2\Observable\obj\Debug\net9.0\ObservableDesignPattern.AssemblyInfo.cs
+D:\Chapter2\Observable\obj\Debug\net9.0\ObservableDesignPattern.csproj.CoreCompileInputs.cache
+D:\Chapter2\Observable\obj\Debug\net9.0\ObservableDesignPattern.dll
+D:\Chapter2\Observable\obj\Debug\net9.0\refint\ObservableDesignPattern.dll
+D:\Chapter2\Observable\obj\Debug\net9.0\ObservableDesignPattern.pdb
+D:\Chapter2\Observable\obj\Debug\net9.0\ObservableDesignPattern.genruntimeconfig.cache
+D:\Chapter2\Observable\obj\Debug\net9.0\ref\ObservableDesignPattern.dll
