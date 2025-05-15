@@ -81,8 +81,6 @@ public interface IObserver
 > `Observer` class. The rest of the details of what we do with this updated information from the `Subject` can be defined in this concrete `Observer` class.
 
 ---
-
-The Observer design pattern is heavily employed in the code you provided. Below, I'll explain where and how this pattern is used with respect to the Markdown structure you've created:
 ## Observer Design Pattern in the Code
 ### Identification of Components in the Code
 1. **Subject**:
@@ -90,14 +88,11 @@ The Observer design pattern is heavily employed in the code you provided. Below,
     - **Register Observers** (`RegistorObserver`)
     - **Notify Observers** (`NotifyObserver`) of changes or actions to take.
 
-This matches your definition:
-
 > **Subject:** Is the object _that is being observed_. The `Subject` is the object notifying the observers of changes.
 >
 
 2. **Observer**:
    Classes such as `Squad` and `Tank` act as **Observers**. These classes register themselves with the `Commander` (the Subject) and implement the behavior on what to do when they are notified through methods like `ExecuteOrders`.
-   Your Markdown defines:
 
 > **Observer:** Is the object that _is observing the subject_. This is the object waiting to be notified of changes.
 >
