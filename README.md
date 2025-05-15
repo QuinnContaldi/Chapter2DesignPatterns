@@ -84,7 +84,7 @@ public interface IObserver
 ## Observer Design Pattern in the Code
 ### Identification of Components in the Code
 1. **Subject**:
-   The `Commander` class serves as the **Subject**. It maintains a list of observers (`Squad`s or `Unit`s like the `Tank`) and provides methods to:
+   The `Commander` class serves as the **Subject**. It maintains a list of observers (`Squads` or `Units` like the `Tank`) and provides methods to:
     - **Register Observers** (`RegistorObserver`)
     - **Notify Observers** (`NotifyObserver`) of changes or actions to take.
 
@@ -98,7 +98,7 @@ public interface IObserver
 >
 
 3. **Subscription Mechanism**:
-   The `RegistorObserver` method in the `Commander` class allows `Observers` (like `RedSquad`, `BlackSquad`, and `Tank1`) to subscribe to notifications from the subject. When commanders notify their observers, all registered observers receive the updates about the orders, fulfilling the subscription mechanism described in your Markdown:
+   The `RegistorObserver` method in the `Commander` class allows `Observers` (like `RedSquad`, `BlackSquad`, and `Tank1`) to subscribe to notifications from the subject. When commanders notify their observers, all registered observers receive the updates about the orders, fulfilling the subscription mechanism.
 
 > **Subscribing:** Observers add themselves to the Subject's notification list to receive updates.
 
